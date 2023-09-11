@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493730989885",
+    "project_id": "tfa-student-attendance",
+    "storage_bucket": "tfa-student-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493730989885:android:48e1e6164d805fc39be754",
+        "android_client_info": {
+          "package_name": "com.example.fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493730989885-gl1uroo4sjdvevk50f7ken1ce6s1qi86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArmibDV2QXMjfZ52jn-5ByefgAnhDVXAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493730989885-gl1uroo4sjdvevk50f7ken1ce6s1qi86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
